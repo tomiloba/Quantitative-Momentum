@@ -12,6 +12,10 @@ To identify stocks on the S&P 500 index with the highest quantitative. This algo
 ![image](https://user-images.githubusercontent.com/49504460/128783133-df34fd74-e23e-4d6e-b93d-b93bfe1bcc01.png)
 
 
+## API Token
+
+The "secrets.py" file contains the API token which will be used to get the data for this project
+
 ## Getting Started:
 
 Install any version of Python3 on any IDE of your choice(Jupyterlabs, PyCharm e.t.c)
