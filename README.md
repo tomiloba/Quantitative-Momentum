@@ -31,3 +31,7 @@ xlsxwriter 1.4.4
 
 requests 2.25.1
 
+## Note: 
+
+This project is not to be used as investment advice. Randomized data is used for this project. 
+
