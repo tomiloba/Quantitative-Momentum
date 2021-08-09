@@ -15,7 +15,9 @@ To identify stocks on the S&P 500 index with the highest quantitative. This algo
 ## Getting Started:
 
 Install any version of Python3 on any IDE of your choice(Jupyterlabs, PyCharm e.t.c)
-The following libraries needed to be added to your python interpreter
+
+
+The following libraries needed to be added to your python interpreter:
 Pandas 1.2.5 
 scipy 1.6.2
 xlsxwriter 1.4.4
