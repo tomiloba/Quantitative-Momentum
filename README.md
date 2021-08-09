@@ -19,7 +19,10 @@ Install any version of Python3 on any IDE of your choice(Jupyterlabs, PyCharm e.
 
 The following libraries needed to be added to your python interpreter:
 Pandas 1.2.5 
+
 scipy 1.6.2
+
 xlsxwriter 1.4.4
+
 requests 2.25.1
 
