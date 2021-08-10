@@ -200,9 +200,7 @@ hqm_dataframe.sort_values('High Quality Momentum Score', ascending= False, inpla
 hqm_dataframe= hqm_dataframe[:100]
 
 #reset index
-hqm_dataframe.reset_index(inplace=True)
-
-del hqm_dataframe['index'] #delete original index order
+hqm_dataframe.reset_index(inplace=True, drop=True)
 
 #CALCULATING NUMBER OF SHARES TO BUY
 
