@@ -192,7 +192,7 @@ for row in hqm_dataframe.index:
     #print(momentum_percentiles)
     hqm_dataframe.loc[row,'High Quality Momentum Score'] = mean(momentum_percentiles)
 
-#SELECTING 50 STOCKS WITH THE HIGHEST MOMENTUM SCORES
+#SELECTING 100 STOCKS WITH THE HIGHEST MOMENTUM SCORES
 hqm_dataframe.sort_values('High Quality Momentum Score', ascending= False, inplace= True)
 #inplace = True modify the sorted dataframe
 
